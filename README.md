@@ -12,5 +12,5 @@ I'm **Gl4d** – another Penetration Tester and passionate security researcher b
 - Always learning, always building
 ```
 
-# ![Github Stats](https://github-readme-stats.vercel.app/api?username=vxgl4d&show_icons=true&theme=dark)
+# ![Github Stats](https://github-readme-stats.vercel.app/api?username=vxgl4d&show_icons=true&theme=cobalt))
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxgl4d&hide=TeX&layout=compact&theme=dark&cache_seconds=3600)
