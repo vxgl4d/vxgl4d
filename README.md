@@ -11,5 +11,6 @@ I'm **Gl4d** – another Penetration Tester and passionate security researcher b
 - Reverse Engineering is my playground
 - Always learning, always building
 ```
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vxgl4d&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxgl4d&hide=TeX&layout=compact&theme=dark)
