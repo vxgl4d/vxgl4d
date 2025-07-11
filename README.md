@@ -1,4 +1,4 @@
-# Hi friend, I am Gl4d
+#  Hi friend, I'm Gl4d🦎
 [![Blog](https://img.shields.io/badge/blog-visit-red)](https://blog.goldsec.de)
 [![Follow on X](https://img.shields.io/twitter/follow/Gl4d?label=follow&style=social)](https://x.com/vxGl4d)
 
