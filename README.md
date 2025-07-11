@@ -1,5 +1,5 @@
 # Hi friend, I am Gl4d
-[![Ghost: Gl4d](https://img.shields.io/badge/blog-visit-red)](https://blog.goldsec.de)
+[![Blog](https://img.shields.io/badge/Blog-Gl4d's%20Lab-red?style=flat-square&logo=ghost)](https://blog.goldsec.de)
 [![X.com Gl4d](https://img.shields.io/twitter/follow/Gl4d?label=follow&style=social)](https://x.com/vxGl4d)
 
 ## ☜(⌒▽⌒)☞ About Me
